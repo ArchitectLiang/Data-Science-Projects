@@ -1,4 +1,4 @@
-# Data Science
+# Data Science Projects
 Data Science projects
 </br>proj1: investigation of bay area restaurants
 </br>proj2: spam/ham classifier
